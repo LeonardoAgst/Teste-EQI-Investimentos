@@ -2,7 +2,9 @@ Este é um [Next.js](https://nextjs.org/) projeto bootstrapped com [`create-next
 
 ## Começando
 
-Primeiro, execute o servidor de desenvolvimento:
+Primeiro, clonar este repositorio, adiciona-lo ao seu editor de codigo após isto.
+
+Execute o servidor de desenvolvimento:
 
 ```bash
 npm run dev
